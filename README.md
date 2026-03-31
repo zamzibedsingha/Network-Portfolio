@@ -20,7 +20,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Assignment 2 (Topology) | [Assignment 2.pdf](Personal%20Assignment/Assignment%202.pdf) |
 | Assignment 3 (Not Simple) | [Assignment 3.pdf](Personal%20Assignment/Assignment%203.pdf) |
 | Assignment 4 (TCP-UDP) | [Assingment 4.pdf](Personal%20Assignment/Assingment%204.pdf) |
-| LAB 1 (Personal) | [LAB 1 (2).pdf](Personal%20Assignment/LAB%201%20(2).pdf) |
+
 
 ---
 
