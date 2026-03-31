@@ -1,6 +1,6 @@
 # Network-Portfolio
 
-**รติมา สวัสดิ์นที รหัสนักศึกษา 673380055-9 Section 1**
+**ชื่อ-สกุล รติมา สวัสดิ์นที รหัสนักศึกษา 673380055-9 Section 1**
 
 Email : ratima.s@kkumail.com
 
