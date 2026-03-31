@@ -1,8 +1,8 @@
 # Network-Portfolio
 
-**[ใส่ชื่อ-นามสกุลจริง] รหัสนักศึกษา [ใส่รหัส 11 ตัว] Section [ใส่เลขเซค]**
+**รติมา สวัสดิ์นที รหัสนักศึกษา 673380055-9 Section 1**
 
-Email : [[ใส่อีเมล@kkumail.com]](mailto:[ใส่อีเมล@kkumail.com])
+Email : ratima.s@kkumail.com
 
 ---
 
@@ -38,7 +38,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ### Final Project
 **GitHub** : https://github.com/zamzibedsingha/networkprogramming2025
-**Video** : [ใส่ลิงก์ YouTube พรีเซนต์งาน ถ้ามี หรือถ้าไม่มีก็ลบบรรทัดนี้ทิ้งได้เลยครับ]
+**Video** : https://youtu.be/ldpp3K5qx4I?si=0RVl1w5bqYx7w3Xs
 
 ---
 
