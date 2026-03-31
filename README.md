@@ -55,4 +55,4 @@ This repository contains my assignments, labs, projects, and certificates relate
 ---
 
 ## ✅ Checkpoint Exam
-![Checkpoint Exam](Certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate_ratima-s-kkumail-com_b88f1961-ef62-467a-97e5-436850b57a39.jpg)
+![Checkpoint Exam](https://github.com/zamzibedsingha/Network-Portfolio/blob/main/Certificates/check%20point.png)
